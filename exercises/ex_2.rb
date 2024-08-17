@@ -1,5 +1,5 @@
-def isAdult(age)
-  if age < 18
+def isAdult(ages)
+  if ages < 18
     print "not adult"
   else
     print "adult"
